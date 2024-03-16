@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+.main-div{
+    height: 400px;
+    width: 800px;
+    background-color: rgb(31, 14, 185);
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.reg-1name{
+    height: 40px;
+    width: 340px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-right: 40px;
+}
+.reg-2name{
+    height: 40px;
+    width: 340px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+.reg-detailes{
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.bg-reg{
+    background-color: rgb(31, 14, 185);
+    color: white;
+}
+
+
+.lgn-main{
+    background-color: rgb(6, 109, 34);
+    width: 60%;
+    height: 350px;
+    margin-top: 100px;
+    margin-left: 250px;
+    color: #fff;
+}
+.lgn-details{
+    height: 40px;
+    width: 600px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
